@@ -1,6 +1,5 @@
 ## Hi there, I am Mayank Dubey 👋
 
-[![mayankdubey0818@gmail.com](https://img.shields.io/badge/mayankdubey0818@gmail.com-red?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C)](mailto:mayankdubey0818.com)
 <a href="https://www.linkedin.com/in/mayank-dubey23/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
