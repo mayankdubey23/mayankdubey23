@@ -6,6 +6,7 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+
   
 - 🎯 Portfolio website: **[Portfolio](https://mayankdubey23.github.io/Portfolio/)**
 
