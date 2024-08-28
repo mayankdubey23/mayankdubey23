@@ -3,8 +3,8 @@
 🎯 Portfolio website: **[Portfolio](https://mayankdubey23.github.io/Portfolio/)**
 
 ## Languages and Tools:
-<img src="https://github.com/user-attachments/assets/cd240794-818c-4b11-8233-5ad0700b9488" width="100" height="100">
-<img src="https://github.com/user-attachments/assets/ea2f5df7-cba9-4b36-8e2e-efa2fb0684f7" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/cd240794-818c-4b11-8233-5ad0700b9488" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/ea2f5df7-cba9-4b36-8e2e-efa2fb0684f7" width="50" height="50">
 <img src="https://github.com/user-attachments/assets/e72b4a47-0efa-4083-acb5-ccca7750e1f7" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/ad406a5a-d30a-4a6f-8954-7357dcd83999" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/848507bf-9309-4b77-97c2-29a5fd4540f5" width="100" height="100">
