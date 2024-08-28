@@ -1,5 +1,5 @@
 ## Hi there, I am Varad Mayank Dubey 👋
-[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mayank-dubey23/)
+[![Linkedin]([https://i.sstatic.net/gVE0j.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)) LinkedIn](https://www.linkedin.com/in/mayank-dubey23/)
 &nbsp; 
 [![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/email/mayankdubey0818.com?style=flat-square&logo=gmail)](mailto:mayankdubey0818@gmail.com)
 
