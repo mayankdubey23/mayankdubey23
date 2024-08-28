@@ -1,7 +1,7 @@
 ## Hi there, I am Varad Mayank Dubey 👋
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mayank-dubey23/)
 &nbsp; 
-https://img.shields.io/email/mayankdubey0818.com?style=flat-square&logo=gmail
+[![Email me](https://img.shields.io/email/mayankdubey0818.com?style=flat-square&logo=gmail)](mailto:mayankdubey0818@gmail.com)
 
 - 🎯 Portfolio website: **[Portfolio](https://mayankdubey23.github.io/Portfolio/)**
 
