@@ -1,6 +1,6 @@
 ## Hi there, I am Mayank Dubey 👋
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-[![Email me](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white/email/mayankdubey0818.com?style=flat-square&logo=gmail)](mailto:mayankdubey0818@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:test@test.com)
 
 - 🎯 Portfolio website: **[Portfolio](https://mayankdubey23.github.io/Portfolio/)**
 
