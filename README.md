@@ -29,7 +29,7 @@ Languages and Tools:
  Things I love:
  
 - Front End Development ✍️
-- Backend Development ✍️
+- Backend Development 💻
 
 
 
