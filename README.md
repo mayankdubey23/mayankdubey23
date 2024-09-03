@@ -22,6 +22,9 @@ Languages and Tools:
 <img src="https://github.com/user-attachments/assets/8758e178-6e14-40ea-a093-d0f1b3acfec6" width="50" height="50">   
 <img src="https://github.com/user-attachments/assets/884eec84-3336-47e0-b114-41571a7e9f9b" width="50" height="50">   
 <img src="https://github.com/user-attachments/assets/457415c8-649b-4ce7-952d-5c3afbe5090c" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/6400e0d1-9675-4041-acca-5815ba117c81" width="50" height="50">
+
+
 
  Things I love:
  
