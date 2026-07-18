@@ -8,7 +8,7 @@
 </a>
 
   
-- 🎯 Portfolio website: **[Portfolio](https://mayankdubey23.github.io/Portfolio/)**
+- 🎯 Portfolio website: **[Portfolio](https://mayank-portfolio-one.vercel.app//)**
 
 Languages and Tools:
 
